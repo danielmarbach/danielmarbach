@@ -9,6 +9,6 @@
 - 👯 I'm the co-organizer of the .NET Usergroup Zentralschweiz for over ten years
 - 😄 Pronouns: He/him
 - 📸 Fun fact: I love dark chocolate 🍫, spicy food 🌶️ and weightlifting 🏋️
-- 📫 You can reach me through [X](https://x.com/danielmarbach), [Mastodon](https://fosstodon.org/@danielmarbach), [BlueSky](https://bsky.app/profile/danielmarbach.bsky.social) or [LinkedIn](linkedin.com/in/daniel-marbach-49857939)
+- 📫 You can reach me through [X](https://x.com/danielmarbach), [Mastodon](https://fosstodon.org/@danielmarbach), [BlueSky](https://bsky.app/profile/danielmarbach.bsky.social) or [LinkedIn](https://www.linkedin.com/in/daniel-marbach-49857939/)
 
 See you somewhere!
